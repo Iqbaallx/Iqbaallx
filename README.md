@@ -3,12 +3,13 @@
 <!-- <h1 align="center">Muhammad Iqbal Romadhon</h1> -->
 <p align="center">
   <!-- <strong>Iqbal</strong><br /> -->
-  ☕ Coding Enthusiast | 🎨 UI/UX | 🚀 SaaS Builder | ⛏️ Minecraft Server Developer
+  ☕ Fullstack Developer | 🎨 UI/UX
 </p>
 
 <p align="center">
+  <a href="https://iqbalromadhon.my.id/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-1E88E5?style=flat-square" alt="Portfolio" /></a>
   <a href="https://github.com/Iqbaallx"><img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:muhammadiqbal21675@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
+  <a href="mailto:email.kamu@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=flat-square&amp;logo=gmail&amp;logoColor=EA4335" alt="Email" /></a>
 </p>
 
 ## Tech Stack
@@ -37,29 +38,6 @@
   <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
   <img src="https://img.shields.io/badge/Netlify-111827?style=for-the-badge&logo=netlify&logoColor=00C7B7" alt="Netlify" />
   <img src="https://img.shields.io/badge/Railway-111827?style=for-the-badge&logo=railway&logoColor=FFFFFF" alt="Railway" />
-</p>
-
-### Minecraft Server Development
-
-<p align="center">
-  <img src="./assets/minecraft-server-badge.svg" alt="Minecraft Server Administration" />
-  <img src="https://img.shields.io/badge/Server_Scripting-111827?style=for-the-badge&logo=gnubash&logoColor=E6F7FF" alt="Server Scripting" />
-  <img src="./assets/plugin-configuration-badge.svg" alt="Plugin Configuration" />
-  <img src="https://img.shields.io/badge/Server_Customization-111827?style=for-the-badge&logo=craftcms&logoColor=F59E0B" alt="Server Customization" />
-  <img src="https://img.shields.io/badge/YAML-111827?style=for-the-badge&logo=yaml&logoColor=FF6B6B" alt="YAML" />
-  <img src="https://img.shields.io/badge/Skript-111827?style=for-the-badge&logo=script&logoColor=67E8F9" alt="Skript" />
-  <img src="https://img.shields.io/badge/Spigot-111827?style=for-the-badge&logo=spigotmc&logoColor=F4A261" alt="Spigot" />
-  <img src="./assets/papermc-badge.svg" alt="PaperMC" />
-</p>
-
-## Currently Building
-
-Building SaaS products, full stack applications, and internal tools with a focus on reliability and practical value.
-
-## Cybersecurity Fundamentals
-
-<p align="center">
-  🐉 Kali Linux | 🌐 Network Security | 📶 Wireless Security | 🔍 Vulnerability Assessment | 📡 Network Monitoring
 </p>
 
 ## GitHub Statistics
