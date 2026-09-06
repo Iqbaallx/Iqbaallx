@@ -3,7 +3,7 @@
 <!-- <h1 align="center">Muhammad Iqbal Romadhon</h1> -->
 <p align="center">
   <!-- <strong>Iqbal</strong><br /> -->
-  ☕ Fullstack Developer | 🎨 UI/UX
+  ☕ Frontend Developer | 🎨 UI/UX
 </p>
 
 <p align="center">
