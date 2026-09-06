@@ -1,4 +1,4 @@
-# <img src="./assets/profile-banner.svg" alt="Muhammad Iqbal Romadhon banner" width="100%" />
+# <img src="./assets/profile-banner.svg?v=1" alt="Muhammad Iqbal Romadhon banner" width="100%" />
 
 <!-- <h1 align="center">Muhammad Iqbal Romadhon</h1> -->
 <p align="center">
@@ -27,11 +27,11 @@
   <img src="https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma" />
   <img src="https://img.shields.io/badge/draw.io-111827?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705" alt="draw.io" />
   <img src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Postman-111827?style=for-the-badge&logo=postman&logoColor=FF6C37" alt="Postman" />
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub" />
   <img src="https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker" />
-  <img src="https://img.shields.io/badge/Nginx-111827?style=for-the-badge&logo=nginx&logoColor=009639" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Claude-111827?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-111827?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
 </p>
 
 ## GitHub Statistics
